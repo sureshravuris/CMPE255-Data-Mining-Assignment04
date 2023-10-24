@@ -22,7 +22,7 @@ This repository contains a series of assignments focusing on different aspects o
 - **D3.js Visualizations:** Employing JavaScript cells in Colab for D3 visualizations.
 - **Conclusion:** Insights and findings from the visualizations.
 
-**Auto EDA with Your Sweetviz**
+# **Auto EDA with Your Sweetviz**
 **Overview:**
 
 - **Dataset Selection:** A chosen dataset from Kaggle.
@@ -35,11 +35,12 @@ This repository contains a series of assignments focusing on different aspects o
 - **EDA with Tool:** Generating an EDA report with the chosen tool.
 - **Observations:** Key insights and findings from the auto EDA.
 
-**Apache Beam in Colab**
+# **Apache Beam in Colab**
 **Overview:**
 
--**Dataset Selection:** A dataset that showcases Apache Beam's features.
--**Objective:** Set up and demonstrate Apache Beam's capabilities within Google Colab.
+- **Dataset Selection:** A dataset that showcases Apache Beam's features.
+
+- **Objective:** Set up and demonstrate Apache Beam's capabilities within Google Colab.
 
 ***Structure:***
 - **Introduction:** Introduction to Apache Beam and its relevance.
