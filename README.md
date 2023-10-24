@@ -8,7 +8,8 @@ This repository contains a series of assignments focusing on different aspects o
 EDA with D3.js in Colab
 Auto EDA with Sweetviz
 Apache Beam in Colab
-EDA with D3.js in Colab
+
+# **EDA with D3.js in Colab**
 Overview:
 Dataset Selection: A complex dataset from Kaggle.
 Objective: Utilize D3.js for exploratory data analysis within Google Colab.
