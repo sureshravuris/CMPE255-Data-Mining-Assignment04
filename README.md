@@ -27,7 +27,7 @@ This repository contains a series of assignments focusing on different aspects o
 
 - **Dataset Selection:** A chosen dataset from Kaggle.
 - **Objective:** Conduct an automatic EDA using tools like Pandas Profiler or Sweetviz.
-- 
+ 
 **Structure:**
   
 - **Introduction:** Rationale behind the dataset and tool selection.
@@ -49,5 +49,5 @@ This repository contains a series of assignments focusing on different aspects o
 - **Demonstrating Apache Beam Features:** Detailed sections showcasing each Apache Beam feature.
 - **Conclusion:** Summary of the experiments and findings.
 
-**Final Steps**
+# **Final Steps**
 With each assignment, there's an opportunity to delve deep into the world of data analysis, employing a range of tools and techniques. These assignments serve as a foundation for understanding various facets of data exploration and visualization.
